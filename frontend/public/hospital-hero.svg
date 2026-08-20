@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" role="img" aria-labelledby="title desc">
+  <title id="title">Doctor caring for a patient</title>
+  <desc id="desc">A simple hospital appointment illustration</desc>
+  <rect width="720" height="520" rx="24" fill="#d9f2ed"/>
+  <circle cx="540" cy="150" r="92" fill="#f4b183"/>
+  <path d="M449 145c16-83 155-106 189-5-44-27-95-18-144 19z" fill="#17324d"/>
+  <path d="M435 260c43-54 125-58 171-3l39 182H385z" fill="#138a8a"/>
+  <path d="M494 259h56v93h-56z" fill="#fffdf9"/>
+  <path d="M514 278v55M487 305h54" stroke="#ec755f" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="498" cy="160" r="7" fill="#17324d"/><circle cx="571" cy="160" r="7" fill="#17324d"/>
+  <path d="M507 201c17 13 34 13 51 0" fill="none" stroke="#17324d" stroke-width="7" stroke-linecap="round"/>
+  <rect x="120" y="260" width="245" height="120" rx="22" fill="#fffdf9" stroke="#17324d" stroke-width="7"/>
+  <circle cx="177" cy="208" r="45" fill="#8e5a42"/><path d="M130 202c10-66 96-66 103 3-31-23-71-20-103-3z" fill="#17324d"/>
+  <path d="M142 285c20-27 58-29 78 0l24 95H117z" fill="#ec755f"/>
+  <circle cx="164" cy="210" r="5" fill="#17324d"/><circle cx="203" cy="210" r="5" fill="#17324d"/>
+  <path d="M170 237c10 7 19 7 29 0" fill="none" stroke="#17324d" stroke-width="5" stroke-linecap="round"/>
+  <path d="M270 301h48M270 326h70M270 351h42" stroke="#bdd3d0" stroke-width="10" stroke-linecap="round"/>
+  <path d="M90 430h540" stroke="#17324d" stroke-width="8" stroke-linecap="round" opacity=".2"/>
+</svg>
