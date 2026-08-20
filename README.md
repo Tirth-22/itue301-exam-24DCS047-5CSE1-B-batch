@@ -54,6 +54,14 @@ For MongoDB Atlas, replace the value with the Atlas connection string. Never com
 
 The Express API starts with the in-memory doctors list and in-memory fallback appointments. When `MONGO_URI` is available, new appointments submitted through the API are also saved as linked Patient, Doctor, and Appointment documents in MongoDB. The appointments returned to the frontend are read from MongoDB.
 
+## Required environment variables
+
+The backend requires this variable in `backend/.env`:
+
+```env
+MONGO_URI=your_mongodb_connection_string
+```
+
 ## API endpoints
 
 Base URL:
